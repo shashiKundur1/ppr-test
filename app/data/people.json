@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "1",
+    "name": "Bill Gates",
+    "title": "Co-founder of Microsoft",
+    "phone": "+1-555-0101",
+    "email": "bill@gates-foundation.org",
+    "avatar": "BG",
+    "messages": [
+      { "id": "m1", "subject": "Climate Innovation Fund", "preview": "Excited to announce our new $2B investment in climate tech...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "AI Safety Discussion", "preview": "Following up on our conversation about responsible AI development...", "date": "2024-01-14", "unread": true },
+      { "id": "m3", "subject": "Global Health Initiative", "preview": "The malaria eradication program has shown promising results...", "date": "2024-01-12", "unread": false },
+      { "id": "m4", "subject": "Book Recommendations", "preview": "Here are my top 5 picks for understanding energy transition...", "date": "2024-01-10", "unread": false },
+      { "id": "m5", "subject": "Philanthropy Summit", "preview": "Looking forward to meeting at the annual Giving Pledge summit...", "date": "2024-01-08", "unread": false }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Elon Musk",
+    "title": "CEO of Tesla & SpaceX",
+    "phone": "+1-555-0102",
+    "email": "elon@spacex.com",
+    "avatar": "EM",
+    "messages": [
+      { "id": "m1", "subject": "Mars Colony Update", "preview": "Starship test flight 7 exceeded expectations...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Cybertruck Production", "preview": "Ramping up to 10,000 units per week by Q2...", "date": "2024-01-14", "unread": true },
+      { "id": "m3", "subject": "Neuralink Progress", "preview": "First human trial showing remarkable brain-computer interface results...", "date": "2024-01-13", "unread": false },
+      { "id": "m4", "subject": "X Platform Changes", "preview": "Rolling out new creator monetization features...", "date": "2024-01-11", "unread": false },
+      { "id": "m5", "subject": "Boring Company Tunnel", "preview": "Vegas loop expansion approved for additional stations...", "date": "2024-01-09", "unread": false }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Jeff Bezos",
+    "title": "Founder of Amazon",
+    "phone": "+1-555-0103",
+    "email": "jeff@bezos.com",
+    "avatar": "JB",
+    "messages": [
+      { "id": "m1", "subject": "Blue Origin Launch", "preview": "New Glenn orbital flight scheduled for next month...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Day 1 Philosophy", "preview": "Reflections on maintaining startup culture at scale...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Bezos Earth Fund", "preview": "Committing additional $1B to ocean conservation...", "date": "2024-01-12", "unread": false },
+      { "id": "m4", "subject": "Washington Post Update", "preview": "Digital subscription numbers continue to grow...", "date": "2024-01-10", "unread": false },
+      { "id": "m5", "subject": "Space Tourism", "preview": "Planning celebrity astronaut program for 2025...", "date": "2024-01-08", "unread": false }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Tim Cook",
+    "title": "CEO of Apple",
+    "phone": "+1-555-0104",
+    "email": "tim@apple.com",
+    "avatar": "TC",
+    "messages": [
+      { "id": "m1", "subject": "Vision Pro Launch", "preview": "Spatial computing is the future of personal technology...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Privacy First", "preview": "New on-device AI features coming to iPhone...", "date": "2024-01-14", "unread": true },
+      { "id": "m3", "subject": "Supplier Responsibility", "preview": "Carbon neutral supply chain milestone achieved...", "date": "2024-01-12", "unread": false },
+      { "id": "m4", "subject": "Apple Park Event", "preview": "Spring keynote date confirmed for March 15th...", "date": "2024-01-11", "unread": false },
+      { "id": "m5", "subject": "Services Growth", "preview": "App Store and Apple Music reaching new records...", "date": "2024-01-09", "unread": false }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Sundar Pichai",
+    "title": "CEO of Google & Alphabet",
+    "phone": "+1-555-0105",
+    "email": "sundar@google.com",
+    "avatar": "SP",
+    "messages": [
+      { "id": "m1", "subject": "Gemini AI Launch", "preview": "Our most capable AI model is now available to developers...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Search Evolution", "preview": "AI-powered search experience rolling out globally...", "date": "2024-01-14", "unread": false },
+      { "id": "m3", "subject": "Quantum Computing", "preview": "Willow chip achieves new error correction milestone...", "date": "2024-01-12", "unread": false },
+      { "id": "m4", "subject": "YouTube Shorts", "preview": "Creator monetization program exceeds expectations...", "date": "2024-01-10", "unread": false },
+      { "id": "m5", "subject": "Cloud Growth", "preview": "Google Cloud revenue up 28% year over year...", "date": "2024-01-08", "unread": false }
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Satya Nadella",
+    "title": "CEO of Microsoft",
+    "phone": "+1-555-0106",
+    "email": "satya@microsoft.com",
+    "avatar": "SN",
+    "messages": [
+      { "id": "m1", "subject": "Copilot Everywhere", "preview": "AI integration across all Microsoft products accelerating...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Azure AI Services", "preview": "New enterprise features for responsible AI deployment...", "date": "2024-01-14", "unread": true },
+      { "id": "m3", "subject": "Gaming Division", "preview": "Activision integration creating synergies...", "date": "2024-01-12", "unread": false },
+      { "id": "m4", "subject": "LinkedIn Growth", "preview": "Professional network reaches 1 billion members...", "date": "2024-01-10", "unread": false },
+      { "id": "m5", "subject": "Sustainability Goals", "preview": "Carbon negative by 2030 plan on track...", "date": "2024-01-08", "unread": false }
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Mark Zuckerberg",
+    "title": "CEO of Meta",
+    "phone": "+1-555-0107",
+    "email": "mark@meta.com",
+    "avatar": "MZ",
+    "messages": [
+      { "id": "m1", "subject": "Metaverse Update", "preview": "Horizon Worlds MAU surpasses 50 million...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Quest 4 Preview", "preview": "Next-gen VR headset features breakthrough display tech...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "AI Personas", "preview": "Celebrity AI characters driving engagement...", "date": "2024-01-12", "unread": false },
+      { "id": "m4", "subject": "Threads Growth", "preview": "Text-based app reaches 200M monthly users...", "date": "2024-01-10", "unread": false },
+      { "id": "m5", "subject": "Reality Labs", "preview": "Smart glasses partnership expanding...", "date": "2024-01-08", "unread": false }
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Jensen Huang",
+    "title": "CEO of NVIDIA",
+    "phone": "+1-555-0108",
+    "email": "jensen@nvidia.com",
+    "avatar": "JH",
+    "messages": [
+      { "id": "m1", "subject": "Blackwell GPU Launch", "preview": "Next-generation AI chips shipping to data centers...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "AI Supercomputer", "preview": "DGX systems powering breakthrough research...", "date": "2024-01-14", "unread": true },
+      { "id": "m3", "subject": "Automotive Division", "preview": "Self-driving partnerships with major automakers...", "date": "2024-01-12", "unread": false },
+      { "id": "m4", "subject": "Gaming RTX", "preview": "New consumer graphics cards announced...", "date": "2024-01-10", "unread": false },
+      { "id": "m5", "subject": "Omniverse Platform", "preview": "Digital twin technology adoption growing...", "date": "2024-01-08", "unread": false }
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Sam Altman",
+    "title": "CEO of OpenAI",
+    "phone": "+1-555-0109",
+    "email": "sam@openai.com",
+    "avatar": "SA",
+    "messages": [
+      { "id": "m1", "subject": "GPT-5 Development", "preview": "Training run showing unprecedented capabilities...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "AGI Timeline", "preview": "Reflections on the path to artificial general intelligence...", "date": "2024-01-14", "unread": true },
+      { "id": "m3", "subject": "Safety Research", "preview": "Superalignment team making progress...", "date": "2024-01-12", "unread": false },
+      { "id": "m4", "subject": "Enterprise Adoption", "preview": "Fortune 500 companies integrating our APIs...", "date": "2024-01-10", "unread": false },
+      { "id": "m5", "subject": "Worldcoin Update", "preview": "Iris scanning reaching new markets...", "date": "2024-01-08", "unread": false }
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Dario Amodei",
+    "title": "CEO of Anthropic",
+    "phone": "+1-555-0110",
+    "email": "dario@anthropic.com",
+    "avatar": "DA",
+    "messages": [
+      { "id": "m1", "subject": "Claude 4 Release", "preview": "Our most helpful and harmless model yet...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Constitutional AI", "preview": "New research paper on AI alignment techniques...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Enterprise Safety", "preview": "Custom safety guidelines for business users...", "date": "2024-01-12", "unread": false },
+      { "id": "m4", "subject": "Research Collaboration", "preview": "Academic partnership announcements...", "date": "2024-01-10", "unread": false },
+      { "id": "m5", "subject": "Series D Funding", "preview": "New investment to accelerate safe AI development...", "date": "2024-01-08", "unread": false }
+    ]
+  },
+  {
+    "id": "11",
+    "name": "Reed Hastings",
+    "title": "Co-founder of Netflix",
+    "phone": "+1-555-0111",
+    "email": "reed@netflix.com",
+    "avatar": "RH",
+    "messages": [
+      { "id": "m1", "subject": "Streaming Innovation", "preview": "New interactive content format launching...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Global Expansion", "preview": "Original content in 50 languages now...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Gaming Strategy", "preview": "Mobile games downloads surpassing expectations...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Ad Tier Success", "preview": "Advertising revenue exceeding projections...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Culture Deck Update", "preview": "Evolving our famous culture document...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "12",
+    "name": "Susan Wojcicki",
+    "title": "Former CEO of YouTube",
+    "phone": "+1-555-0112",
+    "email": "susan@techfuture.com",
+    "avatar": "SW",
+    "messages": [
+      { "id": "m1", "subject": "Creator Economy", "preview": "Thoughts on the future of digital content...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Women in Tech", "preview": "Mentorship program expanding to new cities...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Board Positions", "preview": "Joining advisory boards focused on AI ethics...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Startup Investments", "preview": "Angel investing in video technology startups...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Education Initiative", "preview": "Digital literacy program for underserved communities...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "13",
+    "name": "Warren Buffett",
+    "title": "CEO of Berkshire Hathaway",
+    "phone": "+1-555-0113",
+    "email": "warren@berkshire.com",
+    "avatar": "WB",
+    "messages": [
+      { "id": "m1", "subject": "Annual Letter Preview", "preview": "Key themes for this year's shareholder letter...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Investment Philosophy", "preview": "Why patience remains the greatest virtue...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Energy Investments", "preview": "Renewable energy portfolio growing significantly...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Succession Planning", "preview": "Thoughts on Berkshire's future leadership...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Cherry Coke Supply", "preview": "Ensuring steady supply to the office...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "14",
+    "name": "Oprah Winfrey",
+    "title": "Media Mogul",
+    "phone": "+1-555-0114",
+    "email": "oprah@own.com",
+    "avatar": "OW",
+    "messages": [
+      { "id": "m1", "subject": "Book Club Selection", "preview": "Next month's pick is a powerful memoir...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "OWN Network", "preview": "New documentary series launching...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Weight Wellness", "preview": "Continuing conversation about health journey...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Leadership Academy", "preview": "South African school graduates achieving great things...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Favorite Things", "preview": "Curating this year's holiday gift list early...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "15",
+    "name": "Stephen Hawking",
+    "title": "Theoretical Physicist",
+    "phone": "+1-555-0115",
+    "email": "archives@hawking-foundation.org",
+    "avatar": "SH",
+    "messages": [
+      { "id": "m1", "subject": "Black Hole Research", "preview": "Legacy research continues to influence cosmology...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Foundation Update", "preview": "Scholarships supporting next-gen physicists...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Archive Digitization", "preview": "Making scientific papers freely available...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Breakthrough Prize", "preview": "Award ceremony honoring new discoveries...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "AI Warnings", "preview": "Continuing discussions on existential risks...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "16",
+    "name": "Marie Curie",
+    "title": "Pioneer Physicist & Chemist",
+    "phone": "+1-555-0116",
+    "email": "archives@curie-institute.org",
+    "avatar": "MC",
+    "messages": [
+      { "id": "m1", "subject": "Institute Research", "preview": "Cancer treatment advances using radiation therapy...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Women in Science", "preview": "Scholarship program for female researchers...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Nobel Legacy", "preview": "Celebrating contributions to physics and chemistry...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Museum Exhibition", "preview": "New interactive exhibit on radioactivity...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Research Papers", "preview": "Historical documents being preserved...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "17",
+    "name": "Albert Einstein",
+    "title": "Theoretical Physicist",
+    "phone": "+1-555-0117",
+    "email": "archives@einstein-foundation.org",
+    "avatar": "AE",
+    "messages": [
+      { "id": "m1", "subject": "Relativity Centennial", "preview": "Celebrating 100 years of general relativity...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Peace Advocacy", "preview": "Foundation continues work on global peace...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Archives Release", "preview": "New personal letters being published...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Education Initiative", "preview": "Physics outreach to young students...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Thought Experiments", "preview": "Teaching materials on scientific imagination...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "18",
+    "name": "Nikola Tesla",
+    "title": "Inventor & Electrical Engineer",
+    "phone": "+1-555-0118",
+    "email": "archives@tesla-foundation.org",
+    "avatar": "NT",
+    "messages": [
+      { "id": "m1", "subject": "Wireless Energy", "preview": "Modern research validates wireless transmission theories...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Museum Exhibit", "preview": "Interactive displays on AC electricity...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Patent Archives", "preview": "Digitizing historical patent documents...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Engineering Awards", "preview": "Annual Tesla prize for innovation...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Biography Film", "preview": "New documentary in production...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "19",
+    "name": "Steve Jobs",
+    "title": "Co-founder of Apple",
+    "phone": "+1-555-0119",
+    "email": "archives@jobs-foundation.org",
+    "avatar": "SJ",
+    "messages": [
+      { "id": "m1", "subject": "Design Philosophy", "preview": "Lessons on simplicity that still guide Apple...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Stanford Speech", "preview": "Stay hungry, stay foolish continues to inspire...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Product Legacy", "preview": "How iPhone changed the world...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Pixar Memories", "preview": "Reflections on animation revolution...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Cancer Research", "preview": "Foundation supporting pancreatic cancer research...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "20",
+    "name": "Larry Page",
+    "title": "Co-founder of Google",
+    "phone": "+1-555-0120",
+    "email": "larry@alphabet.com",
+    "avatar": "LP",
+    "messages": [
+      { "id": "m1", "subject": "Flying Cars", "preview": "Kitty Hawk progress on personal aviation...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Moonshot Projects", "preview": "X lab breakthrough announcements coming...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Search Origins", "preview": "Reflecting on PageRank algorithm development...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Climate Tech", "preview": "Investing in carbon capture technology...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Privacy Island", "preview": "Updates from personal research retreat...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "21",
+    "name": "Sergey Brin",
+    "title": "Co-founder of Google",
+    "phone": "+1-555-0121",
+    "email": "sergey@alphabet.com",
+    "avatar": "SB",
+    "messages": [
+      { "id": "m1", "subject": "Airship Project", "preview": "LTA Research disaster relief airship tested...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Parkinson's Research", "preview": "Funding genetic research initiatives...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Google X Returns", "preview": "Back involved with moonshot projects...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Immigration Story", "preview": "Supporting refugee education programs...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Roller Hockey", "preview": "Organizing charity tournament...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "22",
+    "name": "Jack Ma",
+    "title": "Founder of Alibaba",
+    "phone": "+86-555-0122",
+    "email": "jack@alibaba-foundation.org",
+    "avatar": "JM",
+    "messages": [
+      { "id": "m1", "subject": "Education Foundation", "preview": "Rural teacher training program expanding...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Africa Netpreneur", "preview": "Prize for African entrepreneurs announced...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Agriculture Tech", "preview": "Smart farming initiatives in Asia...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Retirement Life", "preview": "Focusing on philanthropy and teaching...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Tai Chi Practice", "preview": "Wellness philosophy sharing...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "23",
+    "name": "Richard Branson",
+    "title": "Founder of Virgin Group",
+    "phone": "+44-555-0123",
+    "email": "richard@virgin.com",
+    "avatar": "RB",
+    "messages": [
+      { "id": "m1", "subject": "Virgin Galactic", "preview": "Commercial space tourism flights resuming...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Ocean Conservation", "preview": "Ocean Unite initiative progress report...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Necker Island", "preview": "Sustainable resort innovations...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Virgin Voyages", "preview": "Cruise line expansion plans...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Adventure Challenge", "preview": "Planning next world record attempt...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "24",
+    "name": "Arianna Huffington",
+    "title": "Founder of Thrive Global",
+    "phone": "+1-555-0124",
+    "email": "arianna@thriveglobal.com",
+    "avatar": "AH",
+    "messages": [
+      { "id": "m1", "subject": "Burnout Prevention", "preview": "New corporate wellness program launching...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Sleep Revolution", "preview": "Research on productivity and rest...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "AI and Wellbeing", "preview": "Using technology for mental health...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "New Book", "preview": "Manuscript on sustainable success complete...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Greek Wisdom", "preview": "Ancient philosophy for modern life...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "25",
+    "name": "Sheryl Sandberg",
+    "title": "Former COO of Meta",
+    "phone": "+1-555-0125",
+    "email": "sheryl@leanin.org",
+    "avatar": "SS",
+    "messages": [
+      { "id": "m1", "subject": "Lean In Circles", "preview": "Women's leadership groups reaching 50,000...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Option B Foundation", "preview": "Grief and resilience support expanding...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Board Positions", "preview": "Joining new company boards...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Mentorship Program", "preview": "Pairing executives with emerging leaders...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Policy Advocacy", "preview": "Paid family leave campaign progress...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "26",
+    "name": "Marc Andreessen",
+    "title": "Co-founder of a16z",
+    "phone": "+1-555-0126",
+    "email": "marc@a16z.com",
+    "avatar": "MA",
+    "messages": [
+      { "id": "m1", "subject": "AI Investments", "preview": "Major funding rounds in AI infrastructure...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Techno-Optimism", "preview": "Building the future through technology...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Crypto Winter End", "preview": "Web3 investments showing signs of recovery...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Bio Fund", "preview": "Healthcare portfolio companies progressing...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Podcast Episode", "preview": "Recording session on startup advice...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "27",
+    "name": "Peter Thiel",
+    "title": "Co-founder of PayPal",
+    "phone": "+1-555-0127",
+    "email": "peter@thielfoundation.org",
+    "avatar": "PT",
+    "messages": [
+      { "id": "m1", "subject": "Thiel Fellowship", "preview": "New class of young entrepreneurs selected...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Palantir Update", "preview": "Government contracts and AI integration...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Zero to One", "preview": "Book principles applied to new ventures...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Longevity Research", "preview": "Anti-aging investments progress report...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Founders Fund", "preview": "New fund launch for deep tech...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "28",
+    "name": "Reid Hoffman",
+    "title": "Co-founder of LinkedIn",
+    "phone": "+1-555-0128",
+    "email": "reid@greylock.com",
+    "avatar": "RHo",
+    "messages": [
+      { "id": "m1", "subject": "AI Startups", "preview": "Greylock investments in generative AI...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Blitzscaling", "preview": "New edition of scaling strategies book...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Masters of Scale", "preview": "Podcast season featuring AI founders...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Inflection AI", "preview": "Personal AI assistant development...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Board Game Night", "preview": "Strategy games and startup lessons...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "29",
+    "name": "Jack Dorsey",
+    "title": "Co-founder of Twitter & Block",
+    "phone": "+1-555-0129",
+    "email": "jack@block.xyz",
+    "avatar": "JD",
+    "messages": [
+      { "id": "m1", "subject": "Bitcoin Development", "preview": "Block funding open source Bitcoin projects...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Decentralized Social", "preview": "Bluesky protocol updates...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Cash App Growth", "preview": "Financial services reaching underbanked...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Africa Initiative", "preview": "Moving to Africa timeline update...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Meditation Retreat", "preview": "Silent retreat reflections...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "30",
+    "name": "Brian Chesky",
+    "title": "CEO of Airbnb",
+    "phone": "+1-555-0130",
+    "email": "brian@airbnb.com",
+    "avatar": "BC",
+    "messages": [
+      { "id": "m1", "subject": "Winter Release", "preview": "50 new features launching this month...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Design Philosophy", "preview": "RISD principles in product development...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Host Community", "preview": "Supporting long-term hosting...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Travel Trends", "preview": "Remote work changing travel patterns...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Company Retreat", "preview": "Living in Airbnbs around the world...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "31",
+    "name": "Drew Houston",
+    "title": "CEO of Dropbox",
+    "phone": "+1-555-0131",
+    "email": "drew@dropbox.com",
+    "avatar": "DH",
+    "messages": [
+      { "id": "m1", "subject": "AI Workspace", "preview": "Dash AI integration across products...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Virtual First", "preview": "Remote work experiment results...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Product Strategy", "preview": "Beyond file storage expansion...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "MIT Advice", "preview": "Speaking to engineering students...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Startup Lessons", "preview": "Y Combinator memories...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "32",
+    "name": "Stewart Butterfield",
+    "title": "Co-founder of Slack",
+    "phone": "+1-555-0132",
+    "email": "stewart@slack.com",
+    "avatar": "SBu",
+    "messages": [
+      { "id": "m1", "subject": "Slack AI", "preview": "AI features improving workplace productivity...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Gaming Origins", "preview": "From Flickr and Glitch to enterprise software...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Salesforce Integration", "preview": "Deeper enterprise suite connections...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Philosophy Degree", "preview": "How studying philosophy helps business...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Photography", "preview": "Flickr photo contest winners...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "33",
+    "name": "Daniel Ek",
+    "title": "CEO of Spotify",
+    "phone": "+46-555-0133",
+    "email": "daniel@spotify.com",
+    "avatar": "DE",
+    "messages": [
+      { "id": "m1", "subject": "AI DJ", "preview": "Personalized DJ feature reaching 100M users...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Podcast Strategy", "preview": "Exclusive content deals paying off...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Creator Economy", "preview": "Tools for independent artists...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "European Tech", "preview": "Building tech ecosystem in Sweden...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Defense Investment", "preview": "Prima Materia fund progress...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "34",
+    "name": "Whitney Wolfe Herd",
+    "title": "Founder of Bumble",
+    "phone": "+1-555-0134",
+    "email": "whitney@bumble.com",
+    "avatar": "WWH",
+    "messages": [
+      { "id": "m1", "subject": "Dating Evolution", "preview": "New features for meaningful connections...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Women First", "preview": "Empowering women in all relationships...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "BFF Mode", "preview": "Friendship feature growth metrics...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Youngest CEO", "preview": "Advice for young entrepreneurs...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Austin HQ", "preview": "Texas tech scene thriving...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "35",
+    "name": "Patrick Collison",
+    "title": "CEO of Stripe",
+    "phone": "+1-555-0135",
+    "email": "patrick@stripe.com",
+    "avatar": "PC",
+    "messages": [
+      { "id": "m1", "subject": "Stripe AI", "preview": "Machine learning for fraud prevention...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Fast Grants", "preview": "Scientific research funding accelerating...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Stripe Press", "preview": "New book publications announced...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Ireland Tech", "preview": "European engineering hub expansion...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Reading List", "preview": "Book recommendations for founders...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "36",
+    "name": "John Collison",
+    "title": "President of Stripe",
+    "phone": "+1-555-0136",
+    "email": "john@stripe.com",
+    "avatar": "JC",
+    "messages": [
+      { "id": "m1", "subject": "API Improvements", "preview": "Developer experience updates shipping...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Global Expansion", "preview": "New countries launching on Stripe...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Startup Tools", "preview": "Atlas for company formation...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Youngest Billionaire", "preview": "Reflections on early success...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Climate Tech", "preview": "Stripe Climate purchases update...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "37",
+    "name": "Travis Kalanick",
+    "title": "Founder of Uber",
+    "phone": "+1-555-0137",
+    "email": "travis@10100.com",
+    "avatar": "TK",
+    "messages": [
+      { "id": "m1", "subject": "Ghost Kitchens", "preview": "CloudKitchens expansion in Asia...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Real Estate Tech", "preview": "Investing in property technology...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Startup Advice", "preview": "Lessons from scaling Uber...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "LA Scene", "preview": "Tech ecosystem in Los Angeles...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Fitness Routine", "preview": "Training and mental clarity...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "38",
+    "name": "Dara Khosrowshahi",
+    "title": "CEO of Uber",
+    "phone": "+1-555-0138",
+    "email": "dara@uber.com",
+    "avatar": "DK",
+    "messages": [
+      { "id": "m1", "subject": "Autonomous Vehicles", "preview": "Waymo partnership expanding cities...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Uber Eats Growth", "preview": "Delivery becoming core business...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Profitability", "preview": "Sustainable growth metrics improving...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Driver Experience", "preview": "New benefits for gig workers...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Iranian Heritage", "preview": "Immigrant founder story...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "39",
+    "name": "Tony Xu",
+    "title": "CEO of DoorDash",
+    "phone": "+1-555-0139",
+    "email": "tony@doordash.com",
+    "avatar": "TX",
+    "messages": [
+      { "id": "m1", "subject": "Grocery Delivery", "preview": "Expanding beyond restaurant delivery...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Dasher Support", "preview": "New programs for delivery partners...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Restaurant Tech", "preview": "Kitchen display systems growing...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Chinese American", "preview": "Immigration and entrepreneurship...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Stanford Days", "preview": "How Stanford shaped the company...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "40",
+    "name": "Evan Spiegel",
+    "title": "CEO of Snap",
+    "phone": "+1-555-0140",
+    "email": "evan@snap.com",
+    "avatar": "ES",
+    "messages": [
+      { "id": "m1", "subject": "AR Spectacles", "preview": "Next generation glasses announcement...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Gen Z Platform", "preview": "Staying relevant with young users...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "My AI", "preview": "Chatbot engagement metrics...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Privacy Focus", "preview": "Ephemeral messaging philosophy...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Family Life", "preview": "Balancing CEO and parenting...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "41",
+    "name": "Kevin Systrom",
+    "title": "Co-founder of Instagram",
+    "phone": "+1-555-0141",
+    "email": "kevin@systrom.com",
+    "avatar": "KS",
+    "messages": [
+      { "id": "m1", "subject": "Artifact App", "preview": "AI news reader gaining traction...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Photography Tips", "preview": "Sharing camera and editing techniques...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Product Design", "preview": "Lessons from building Instagram...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Startup Ideas", "preview": "What I'd build today...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Wine Collection", "preview": "Recent vineyard visits...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "42",
+    "name": "Jan Koum",
+    "title": "Co-founder of WhatsApp",
+    "phone": "+1-555-0142",
+    "email": "jan@koum.com",
+    "avatar": "JK",
+    "messages": [
+      { "id": "m1", "subject": "Privacy Advocacy", "preview": "Encryption must remain strong...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Porsche Collection", "preview": "Latest classic car acquisition...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Ukraine Support", "preview": "Humanitarian aid efforts...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Simplicity", "preview": "Why WhatsApp stayed simple...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Immigration Story", "preview": "From Ukraine to Silicon Valley...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "43",
+    "name": "Tobi Lutke",
+    "title": "CEO of Shopify",
+    "phone": "+1-555-0143",
+    "email": "tobi@shopify.com",
+    "avatar": "TL",
+    "messages": [
+      { "id": "m1", "subject": "Commerce AI", "preview": "Sidekick AI for merchants launching...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Remote Work", "preview": "Digital by default reflections...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Entrepreneurship", "preview": "Making commerce better for everyone...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "German Engineering", "preview": "Precision in software development...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Video Games", "preview": "Gaming and leadership lessons...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "44",
+    "name": "Brian Armstrong",
+    "title": "CEO of Coinbase",
+    "phone": "+1-555-0144",
+    "email": "brian@coinbase.com",
+    "avatar": "BA",
+    "messages": [
+      { "id": "m1", "subject": "Crypto Regulation", "preview": "Working with Congress on clarity...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Layer 2 Growth", "preview": "Base blockchain adoption...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Mission Focus", "preview": "Staying apolitical as company...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "ResearchHub", "preview": "Decentralizing science...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Economic Freedom", "preview": "Why crypto matters globally...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "45",
+    "name": "Changpeng Zhao",
+    "title": "Founder of Binance",
+    "phone": "+852-555-0145",
+    "email": "cz@binance.com",
+    "avatar": "CZ",
+    "messages": [
+      { "id": "m1", "subject": "Crypto Education", "preview": "Blockchain education initiatives...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Compliance Update", "preview": "Regulatory partnerships worldwide...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "BNB Chain", "preview": "Ecosystem development progress...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Web3 Future", "preview": "Decentralization vision...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Personal Update", "preview": "Life after stepping back...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "46",
+    "name": "Vitalik Buterin",
+    "title": "Co-founder of Ethereum",
+    "phone": "+1-555-0146",
+    "email": "vitalik@ethereum.org",
+    "avatar": "VB",
+    "messages": [
+      { "id": "m1", "subject": "Ethereum Roadmap", "preview": "Scalability improvements on track...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Blog Post", "preview": "New thoughts on cryptoeconomics...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Longevity Research", "preview": "Funding anti-aging science...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Decentralization", "preview": "Why it matters more than ever...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Conference Talk", "preview": "Upcoming keynote preparation...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "47",
+    "name": "Lei Jun",
+    "title": "Founder of Xiaomi",
+    "phone": "+86-555-0147",
+    "email": "leijun@xiaomi.com",
+    "avatar": "LJ",
+    "messages": [
+      { "id": "m1", "subject": "Electric Vehicles", "preview": "Xiaomi car production ramping up...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Smart Home", "preview": "IoT ecosystem growing rapidly...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "India Market", "preview": "Manufacturing expansion plans...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Fan Engagement", "preview": "Community-driven product development...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Book Reading", "preview": "Sharing favorite business books...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "48",
+    "name": "Ren Zhengfei",
+    "title": "Founder of Huawei",
+    "phone": "+86-555-0148",
+    "email": "archives@huawei.com",
+    "avatar": "RZ",
+    "messages": [
+      { "id": "m1", "subject": "5G Leadership", "preview": "Global infrastructure deployments...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "R&D Investment", "preview": "Research spending exceeding rivals...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Chip Development", "preview": "Self-reliance in semiconductors...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Military Background", "preview": "How army service shaped leadership...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Company Culture", "preview": "Wolf culture and dedication...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "49",
+    "name": "Masayoshi Son",
+    "title": "Founder of SoftBank",
+    "phone": "+81-555-0149",
+    "email": "masa@softbank.com",
+    "avatar": "MS",
+    "messages": [
+      { "id": "m1", "subject": "Vision Fund 3", "preview": "AI-focused investment strategy...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Arm Holdings", "preview": "Post-IPO strategy and growth...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "300-Year Plan", "preview": "Long-term technology vision...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "AI Singularity", "preview": "Thoughts on superintelligent AI...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Recovery", "preview": "Lessons from investment losses...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "50",
+    "name": "Robin Li",
+    "title": "CEO of Baidu",
+    "phone": "+86-555-0150",
+    "email": "robin@baidu.com",
+    "avatar": "RL",
+    "messages": [
+      { "id": "m1", "subject": "Ernie Bot", "preview": "Chinese AI chatbot reaching 100M users...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Autonomous Driving", "preview": "Apollo robotaxi expansion...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Search Evolution", "preview": "AI transforming search experience...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Silicon Valley Days", "preview": "Early career at Infoseek...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Chinese Tech", "preview": "Building tech ecosystem in China...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "51",
+    "name": "Zhang Yiming",
+    "title": "Founder of ByteDance",
+    "phone": "+86-555-0151",
+    "email": "archives@bytedance.com",
+    "avatar": "ZY",
+    "messages": [
+      { "id": "m1", "subject": "TikTok Global", "preview": "Platform reaching 2 billion users...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Algorithm Innovation", "preview": "Recommendation systems evolution...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Retirement Reflections", "preview": "Life after stepping down...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Reading Habits", "preview": "Books that shaped my thinking...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Virtual Reality", "preview": "Investments in VR technology...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "52",
+    "name": "Pony Ma",
+    "title": "CEO of Tencent",
+    "phone": "+86-555-0152",
+    "email": "ponyma@tencent.com",
+    "avatar": "PM",
+    "messages": [
+      { "id": "m1", "subject": "WeChat Updates", "preview": "New features for mini programs...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Gaming Division", "preview": "Global game publishing strategy...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Fintech Growth", "preview": "WeChat Pay expansion...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Cloud Business", "preview": "Enterprise services growth...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Philanthropy", "preview": "Foundation education initiatives...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "53",
+    "name": "Lisa Su",
+    "title": "CEO of AMD",
+    "phone": "+1-555-0153",
+    "email": "lisa@amd.com",
+    "avatar": "LS",
+    "messages": [
+      { "id": "m1", "subject": "AI Chip Launch", "preview": "MI300X competing with NVIDIA...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Console Chips", "preview": "Next-gen gaming processors...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Turnaround Story", "preview": "How AMD came back from the brink...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Women in Tech", "preview": "Engineering leadership advice...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "MIT Education", "preview": "How PhD shaped my approach...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "54",
+    "name": "Pat Gelsinger",
+    "title": "CEO of Intel",
+    "phone": "+1-555-0154",
+    "email": "pat@intel.com",
+    "avatar": "PG",
+    "messages": [
+      { "id": "m1", "subject": "Foundry Strategy", "preview": "Manufacturing expansion updates...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Process Technology", "preview": "18A node progress report...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "IDM 2.0", "preview": "Integrated device manufacturing vision...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "US Manufacturing", "preview": "CHIPS Act investment plans...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Faith and Work", "preview": "Balancing beliefs and business...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "55",
+    "name": "Morris Chang",
+    "title": "Founder of TSMC",
+    "phone": "+886-555-0155",
+    "email": "archives@tsmc.com",
+    "avatar": "MCh",
+    "messages": [
+      { "id": "m1", "subject": "Semiconductor Future", "preview": "Industry outlook and predictions...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Foundry Model", "preview": "How pure-play foundry changed chips...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "US Expansion", "preview": "Arizona fab construction progress...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "TI Days", "preview": "Texas Instruments memories...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Taiwan Tech", "preview": "Building semiconductor ecosystem...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "56",
+    "name": "Mukesh Ambani",
+    "title": "Chairman of Reliance Industries",
+    "phone": "+91-555-0156",
+    "email": "office@ril.com",
+    "avatar": "MAm",
+    "messages": [
+      { "id": "m1", "subject": "Jio Platforms", "preview": "5G rollout across India...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Retail Expansion", "preview": "JioMart competing with e-commerce...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Green Energy", "preview": "Renewable energy investments...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Digital India", "preview": "Making internet accessible...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Antilia", "preview": "Home and family updates...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "57",
+    "name": "Ratan Tata",
+    "title": "Chairman Emeritus of Tata Group",
+    "phone": "+91-555-0157",
+    "email": "archives@tata.com",
+    "avatar": "RT",
+    "messages": [
+      { "id": "m1", "subject": "Startup Investments", "preview": "Angel investing in Indian startups...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Legacy", "preview": "Tata Group's 150-year journey...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Philanthropy", "preview": "Trusts supporting education...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Nano Story", "preview": "People's car development...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Animal Welfare", "preview": "Supporting stray animal care...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "58",
+    "name": "Narayana Murthy",
+    "title": "Co-founder of Infosys",
+    "phone": "+91-555-0158",
+    "email": "narayana@infosys.com",
+    "avatar": "NM",
+    "messages": [
+      { "id": "m1", "subject": "Work Ethics", "preview": "Thoughts on 70-hour work weeks...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Indian IT", "preview": "Building the IT services industry...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Catamaran Ventures", "preview": "Startup investments update...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Values", "preview": "Compassionate capitalism philosophy...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Family", "preview": "Proud grandfather moments...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "59",
+    "name": "Satoshi Nakamoto",
+    "title": "Creator of Bitcoin",
+    "phone": "+1-555-0159",
+    "email": "satoshi@bitcoin.org",
+    "avatar": "SNa",
+    "messages": [
+      { "id": "m1", "subject": "Whitepaper Anniversary", "preview": "15 years since Bitcoin's birth...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Decentralization", "preview": "The original vision for Bitcoin...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Privacy", "preview": "Why anonymity matters...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Early Days", "preview": "Cypherpunk mailing list memories...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Silent Observer", "preview": "Watching Bitcoin evolve...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "60",
+    "name": "Ada Lovelace",
+    "title": "First Computer Programmer",
+    "phone": "+44-555-0160",
+    "email": "archives@lovelace-foundation.org",
+    "avatar": "AL",
+    "messages": [
+      { "id": "m1", "subject": "Computing Legacy", "preview": "Celebrating women in computing...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Analytical Engine", "preview": "Babbage collaboration memories...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Mathematics", "preview": "Poetry of numbers...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Ada Day", "preview": "Annual celebration of women in STEM...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Programming Language", "preview": "The Ada language that bears my name...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "61",
+    "name": "Alan Turing",
+    "title": "Father of Computer Science",
+    "phone": "+44-555-0161",
+    "email": "archives@turing-foundation.org",
+    "avatar": "AT",
+    "messages": [
+      { "id": "m1", "subject": "AI Milestone", "preview": "Turing Test in the age of ChatGPT...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Codebreaking", "preview": "Enigma and Bletchley Park legacy...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Computing Machines", "preview": "Universal Turing Machine concepts...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Turing Award", "preview": "Annual prize for computing...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Rehabilitation", "preview": "Royal pardon and legacy restoration...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "62",
+    "name": "Grace Hopper",
+    "title": "Computer Science Pioneer",
+    "phone": "+1-555-0162",
+    "email": "archives@grace-hopper.org",
+    "avatar": "GH",
+    "messages": [
+      { "id": "m1", "subject": "COBOL Legacy", "preview": "Programming language still running banks...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "First Bug", "preview": "The famous moth in the relay...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Compiler Innovation", "preview": "Translating human language to code...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Navy Service", "preview": "Rear Admiral memories...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Celebration Conference", "preview": "Annual women in computing event...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "63",
+    "name": "Tim Berners-Lee",
+    "title": "Inventor of the World Wide Web",
+    "phone": "+44-555-0163",
+    "email": "tim@w3.org",
+    "avatar": "TBL",
+    "messages": [
+      { "id": "m1", "subject": "Web3 Concerns", "preview": "Decentralization should not mean chaos...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Solid Project", "preview": "Personal data pods progress...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Web Anniversary", "preview": "35 years of the World Wide Web...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Open Standards", "preview": "Why the web must stay open...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "CERN Memories", "preview": "Where it all began...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "64",
+    "name": "Linus Torvalds",
+    "title": "Creator of Linux",
+    "phone": "+1-555-0164",
+    "email": "linus@linux.org",
+    "avatar": "LTo",
+    "messages": [
+      { "id": "m1", "subject": "Kernel Release", "preview": "Linux 7.0 features overview...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Git Success", "preview": "Version control everywhere now...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Open Source", "preview": "The power of collaborative development...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Code Review", "preview": "Why I'm sometimes harsh...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Scuba Diving", "preview": "Subsurface dive log app updates...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "65",
+    "name": "James Gosling",
+    "title": "Creator of Java",
+    "phone": "+1-555-0165",
+    "email": "james@gosling.dev",
+    "avatar": "JG",
+    "messages": [
+      { "id": "m1", "subject": "Java Evolution", "preview": "The language at 30 years old...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "AWS Work", "preview": "Cloud computing perspectives...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Ocean Robots", "preview": "Autonomous underwater vehicles...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Sun Microsystems", "preview": "The good old days...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Canadian Pride", "preview": "Tech scene in Canada...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "66",
+    "name": "Guido van Rossum",
+    "title": "Creator of Python",
+    "phone": "+1-555-0166",
+    "email": "guido@python.org",
+    "avatar": "GvR",
+    "messages": [
+      { "id": "m1", "subject": "Python 4", "preview": "Thoughts on the language's future...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "AI Impact", "preview": "Python in machine learning...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Microsoft Role", "preview": "Working on Python performance...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Benevolent Dictator", "preview": "Stepping down from BDFL...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Code Readability", "preview": "Why Python looks the way it does...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "67",
+    "name": "Bjarne Stroustrup",
+    "title": "Creator of C++",
+    "phone": "+1-555-0167",
+    "email": "bjarne@stroustrup.com",
+    "avatar": "BS",
+    "messages": [
+      { "id": "m1", "subject": "C++ Standards", "preview": "C++26 features preview...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Memory Safety", "preview": "Responding to Rust comparisons...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Bell Labs", "preview": "Where C++ was born...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Teaching", "preview": "Columbia University course updates...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Language Design", "preview": "Principles that guided C++...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "68",
+    "name": "Anders Hejlsberg",
+    "title": "Creator of TypeScript & C#",
+    "phone": "+1-555-0168",
+    "email": "anders@microsoft.com",
+    "avatar": "AHe",
+    "messages": [
+      { "id": "m1", "subject": "TypeScript 6", "preview": "New type system features...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Language Design", "preview": "Balancing features and simplicity...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Turbo Pascal", "preview": "Where it all started at Borland...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Delphi Memories", "preview": "Object Pascal evolution...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Danish Roots", "preview": "Copenhagen tech community...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "69",
+    "name": "Brendan Eich",
+    "title": "Creator of JavaScript",
+    "phone": "+1-555-0169",
+    "email": "brendan@brave.com",
+    "avatar": "BE",
+    "messages": [
+      { "id": "m1", "subject": "Brave Browser", "preview": "Privacy-first browsing growth...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "10 Days", "preview": "Creating JavaScript in 10 days...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "BAT Token", "preview": "Basic Attention Token updates...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Web Standards", "preview": "Browser wars memories...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Mozilla Days", "preview": "Firefox and open source...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "70",
+    "name": "Ryan Dahl",
+    "title": "Creator of Node.js & Deno",
+    "phone": "+1-555-0170",
+    "email": "ryan@deno.land",
+    "avatar": "RD",
+    "messages": [
+      { "id": "m1", "subject": "Deno 2.0", "preview": "Major release with npm compatibility...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Node Regrets", "preview": "10 things I regret about Node...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "JavaScript Runtime", "preview": "Server-side JS evolution...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Fresh Framework", "preview": "Web framework built on Deno...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "TypeScript First", "preview": "Why TypeScript by default...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "71",
+    "name": "Evan You",
+    "title": "Creator of Vue.js",
+    "phone": "+1-555-0171",
+    "email": "evan@vuejs.org",
+    "avatar": "EY",
+    "messages": [
+      { "id": "m1", "subject": "Vue 4 Preview", "preview": "Next major version features...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Vite Growth", "preview": "Build tool adoption skyrocketing...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Open Source", "preview": "Full-time OSS sustainability...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Google Days", "preview": "Working on Angular before Vue...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Chinese Community", "preview": "Vue adoption in China...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "72",
+    "name": "Dan Abramov",
+    "title": "Co-creator of Redux",
+    "phone": "+1-555-0172",
+    "email": "dan@overreacted.io",
+    "avatar": "DAb",
+    "messages": [
+      { "id": "m1", "subject": "Bluesky Work", "preview": "Building social at scale...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "React Evolution", "preview": "Thoughts on React's future...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Teaching", "preview": "Making complex concepts simple...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Redux Legacy", "preview": "State management evolution...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Blog Post", "preview": "New overreacted.io article...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "73",
+    "name": "Guillermo Rauch",
+    "title": "CEO of Vercel",
+    "phone": "+1-555-0173",
+    "email": "guillermo@vercel.com",
+    "avatar": "GR",
+    "messages": [
+      { "id": "m1", "subject": "v0 AI", "preview": "Generative UI tool updates...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Next.js 16", "preview": "Framework roadmap preview...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Edge Computing", "preview": "Running code closer to users...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Socket.io", "preview": "Real-time web memories...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Argentina Tech", "preview": "Building from South America...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "74",
+    "name": "Rich Harris",
+    "title": "Creator of Svelte",
+    "phone": "+44-555-0174",
+    "email": "rich@svelte.dev",
+    "avatar": "RHa",
+    "messages": [
+      { "id": "m1", "subject": "Svelte 5", "preview": "Runes and signals launching...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "SvelteKit", "preview": "Full-stack framework updates...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Vercel Move", "preview": "Joining the team full-time...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "NYT Graphics", "preview": "Data visualization at newspapers...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Compiler Approach", "preview": "Why compilers beat runtime...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "75",
+    "name": "Tom Preston-Werner",
+    "title": "Co-founder of GitHub",
+    "phone": "+1-555-0175",
+    "email": "tom@github.com",
+    "avatar": "TPW",
+    "messages": [
+      { "id": "m1", "subject": "RedwoodJS", "preview": "Full-stack framework progress...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Open Source", "preview": "Funding sustainability models...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "GitHub Story", "preview": "Building developer tools...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Preston-Werner Foundation", "preview": "Climate and education grants...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Jekyll", "preview": "Static site generators evolution...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "76",
+    "name": "Nat Friedman",
+    "title": "Former CEO of GitHub",
+    "phone": "+1-555-0176",
+    "email": "nat@nat.dev",
+    "avatar": "NF",
+    "messages": [
+      { "id": "m1", "subject": "AI Investments", "preview": "Backing the next AI wave...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Copilot Launch", "preview": "Memories of AI pair programming...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Ancient Texts", "preview": "Using AI to read scrolls...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Xamarin Days", "preview": "Mobile cross-platform journey...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "GNOME", "preview": "Early open source contributions...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "77",
+    "name": "Mitchell Hashimoto",
+    "title": "Co-founder of HashiCorp",
+    "phone": "+1-555-0177",
+    "email": "mitchell@hashicorp.com",
+    "avatar": "MH",
+    "messages": [
+      { "id": "m1", "subject": "Ghostty Terminal", "preview": "New terminal emulator launching...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Terraform Evolution", "preview": "Infrastructure as code future...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Vagrant Memories", "preview": "Where HashiCorp began...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Solo Projects", "preview": "Building as individual contributor...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Developer Tools", "preview": "Philosophy of good tooling...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "78",
+    "name": "Solomon Hykes",
+    "title": "Founder of Docker",
+    "phone": "+1-555-0178",
+    "email": "solomon@dagger.io",
+    "avatar": "SHy",
+    "messages": [
+      { "id": "m1", "subject": "Dagger CI/CD", "preview": "Portable pipelines progress...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Container Legacy", "preview": "How Docker changed everything...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "dotCloud Days", "preview": "PaaS pivot to containers...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "French Tech", "preview": "Paris startup ecosystem...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "DevOps Philosophy", "preview": "Developer experience matters...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "79",
+    "name": "Kelsey Hightower",
+    "title": "Kubernetes Evangelist",
+    "phone": "+1-555-0179",
+    "email": "kelsey@kubernetes.io",
+    "avatar": "KH",
+    "messages": [
+      { "id": "m1", "subject": "Retirement Reflections", "preview": "Life after Google...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Kubernetes", "preview": "Container orchestration evolution...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "No Code", "preview": "Sometimes the best code is none...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Speaking Tips", "preview": "Conference presentation advice...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Self-Taught", "preview": "Learning to code without degree...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "80",
+    "name": "Jessie Frazelle",
+    "title": "Founder of Oxide Computer",
+    "phone": "+1-555-0180",
+    "email": "jessie@oxide.computer",
+    "avatar": "JF",
+    "messages": [
+      { "id": "m1", "subject": "Oxide Servers", "preview": "Rack-scale computing shipping...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Container Security", "preview": "Runtime isolation advances...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Docker Days", "preview": "Building container tooling...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Hardware Renaissance", "preview": "Why I moved to hardware...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Blog Post", "preview": "New technical writing...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "81",
+    "name": "Limor Fried",
+    "title": "Founder of Adafruit",
+    "phone": "+1-555-0181",
+    "email": "limor@adafruit.com",
+    "avatar": "LF",
+    "messages": [
+      { "id": "m1", "subject": "Maker Movement", "preview": "DIY electronics education...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "New Products", "preview": "CircuitPython boards launching...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Show and Tell", "preview": "Weekly maker showcase...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "MIT Days", "preview": "Engineering education influence...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Open Hardware", "preview": "Why we open source designs...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "82",
+    "name": "Palmer Luckey",
+    "title": "Founder of Oculus",
+    "phone": "+1-555-0182",
+    "email": "palmer@anduril.com",
+    "avatar": "PL",
+    "messages": [
+      { "id": "m1", "subject": "Anduril Defense", "preview": "Autonomous systems for military...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "VR Origins", "preview": "Building Oculus in a trailer...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Defense Tech", "preview": "Why I pivoted to defense...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Hawaiian Shirts", "preview": "Fashion as personal brand...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Collector", "preview": "Vintage tech and gaming...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "83",
+    "name": "John Carmack",
+    "title": "Legendary Game Developer",
+    "phone": "+1-555-0183",
+    "email": "john@carmack.com",
+    "avatar": "JCa",
+    "messages": [
+      { "id": "m1", "subject": "AGI Focus", "preview": "Full-time artificial general intelligence...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Doom Legacy", "preview": "30 years of id Software games...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "VR Experience", "preview": "Oculus CTO lessons learned...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Coding Tips", "preview": "Optimization techniques...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Rockets", "preview": "Armadillo Aerospace memories...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "84",
+    "name": "Demis Hassabis",
+    "title": "CEO of DeepMind",
+    "phone": "+44-555-0184",
+    "email": "demis@deepmind.com",
+    "avatar": "DHa",
+    "messages": [
+      { "id": "m1", "subject": "Gemini AI", "preview": "Multimodal AI capabilities...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "AlphaFold", "preview": "Protein structure predictions...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Nobel Prize", "preview": "Chemistry award reflections...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Chess Prodigy", "preview": "Early gaming competitions...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "AGI Path", "preview": "Journey to artificial general intelligence...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "85",
+    "name": "Ilya Sutskever",
+    "title": "Co-founder of OpenAI",
+    "phone": "+1-555-0185",
+    "email": "ilya@ssi.inc",
+    "avatar": "IS",
+    "messages": [
+      { "id": "m1", "subject": "Safe Superintelligence", "preview": "SSI research direction...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Deep Learning", "preview": "Neural network breakthroughs...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "OpenAI Days", "preview": "Building GPT models...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Hinton Mentorship", "preview": "Learning from Geoffrey Hinton...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Safety Research", "preview": "AI alignment priorities...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "86",
+    "name": "Andrej Karpathy",
+    "title": "AI Researcher",
+    "phone": "+1-555-0186",
+    "email": "andrej@karpathy.ai",
+    "avatar": "AK",
+    "messages": [
+      { "id": "m1", "subject": "AI Education", "preview": "New neural network course...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Tesla Autopilot", "preview": "Self-driving AI lessons...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "minGPT", "preview": "Educational code repositories...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "YouTube Channel", "preview": "Making AI accessible...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Stanford Days", "preview": "PhD research memories...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "87",
+    "name": "Yann LeCun",
+    "title": "Chief AI Scientist at Meta",
+    "phone": "+1-555-0187",
+    "email": "yann@fb.com",
+    "avatar": "YL",
+    "messages": [
+      { "id": "m1", "subject": "Open AI Research", "preview": "Why Meta shares models...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "CNN Inventor", "preview": "Convolutional networks legacy...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "AGI Debate", "preview": "Why current AI isn't AGI...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Turing Award", "preview": "Deep learning recognition...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "French AI", "preview": "Building AI ecosystem in France...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "88",
+    "name": "Geoffrey Hinton",
+    "title": "Godfather of AI",
+    "phone": "+1-555-0188",
+    "email": "geoff@cs.toronto.edu",
+    "avatar": "GHi",
+    "messages": [
+      { "id": "m1", "subject": "AI Risks", "preview": "Why I left Google to speak freely...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Nobel Prize", "preview": "Physics award for neural networks...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Backpropagation", "preview": "The algorithm that changed AI...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Toronto Lab", "preview": "Building Canadian AI research...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Existential Risk", "preview": "AI safety concerns...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "89",
+    "name": "Fei-Fei Li",
+    "title": "AI Professor at Stanford",
+    "phone": "+1-555-0189",
+    "email": "feifeili@stanford.edu",
+    "avatar": "FFL",
+    "messages": [
+      { "id": "m1", "subject": "ImageNet Legacy", "preview": "Dataset that enabled deep learning...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "AI4ALL", "preview": "Diversifying AI education...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Human-Centered AI", "preview": "Stanford HAI initiatives...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "New Book", "preview": "The Worlds I See memoir...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Healthcare AI", "preview": "Medical imaging applications...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "90",
+    "name": "Andrew Ng",
+    "title": "Founder of DeepLearning.AI",
+    "phone": "+1-555-0190",
+    "email": "andrew@deeplearning.ai",
+    "avatar": "AN",
+    "messages": [
+      { "id": "m1", "subject": "AI Education", "preview": "New Coursera courses launching...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Landing AI", "preview": "Computer vision for manufacturing...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Coursera Story", "preview": "Democratizing education...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Baidu Days", "preview": "Building AI in China...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "AI Fund", "preview": "Startup studio portfolio...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "91",
+    "name": "Chris Lattner",
+    "title": "Creator of Swift & LLVM",
+    "phone": "+1-555-0191",
+    "email": "chris@modular.com",
+    "avatar": "CL",
+    "messages": [
+      { "id": "m1", "subject": "Mojo Language", "preview": "Python superset for AI performance...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "LLVM Impact", "preview": "Compiler infrastructure everywhere...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Swift Evolution", "preview": "Apple language development...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Modular Vision", "preview": "Unifying AI infrastructure...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Tesla AI", "preview": "Autopilot compiler work...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "92",
+    "name": "Martin Fowler",
+    "title": "Software Architecture Author",
+    "phone": "+1-555-0192",
+    "email": "martin@martinfowler.com",
+    "avatar": "MF",
+    "messages": [
+      { "id": "m1", "subject": "Refactoring", "preview": "Book edition updates...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Microservices", "preview": "Patterns and anti-patterns...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "ThoughtWorks", "preview": "Consulting experiences...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Agile Manifesto", "preview": "Reflections on signing...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Bliki Post", "preview": "New article on patterns...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "93",
+    "name": "Kent Beck",
+    "title": "Creator of Extreme Programming",
+    "phone": "+1-555-0193",
+    "email": "kent@kentbeck.com",
+    "avatar": "KB",
+    "messages": [
+      { "id": "m1", "subject": "TDD Evolution", "preview": "Test-driven development today...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Tidy First", "preview": "New book on code tidying...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "XP Principles", "preview": "Extreme programming legacy...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Facebook Days", "preview": "Scaling developer practices...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "JUnit", "preview": "Testing framework origins...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "94",
+    "name": "Robert Martin",
+    "title": "Clean Code Author",
+    "phone": "+1-555-0194",
+    "email": "unclebob@cleancoder.com",
+    "avatar": "RM",
+    "messages": [
+      { "id": "m1", "subject": "Functional Design", "preview": "New book on FP principles...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Clean Code", "preview": "Principles that stand the test of time...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "SOLID", "preview": "Object-oriented design principles...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Agile Manifesto", "preview": "20+ years of agile...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Clojure", "preview": "Why functional programming matters...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "95",
+    "name": "DHH",
+    "title": "Creator of Ruby on Rails",
+    "phone": "+45-555-0195",
+    "email": "dhh@hey.com",
+    "avatar": "DHH",
+    "messages": [
+      { "id": "m1", "subject": "Rails 8", "preview": "No-build JavaScript approach...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Cloud Exit", "preview": "Why we left the cloud...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "37signals", "preview": "Building a calm company...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Le Mans Racing", "preview": "Motorsport passion...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Remote Work", "preview": "Office not required...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "96",
+    "name": "Yukihiro Matsumoto",
+    "title": "Creator of Ruby",
+    "phone": "+81-555-0196",
+    "email": "matz@ruby-lang.org",
+    "avatar": "Matz",
+    "messages": [
+      { "id": "m1", "subject": "Ruby 4", "preview": "Language future direction...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Programmer Happiness", "preview": "Designing for joy...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "MINASWAN", "preview": "Matz is nice and so we are nice...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Japanese Tech", "preview": "Programming in Japan...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "RubyConf", "preview": "Conference keynote preparation...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "97",
+    "name": "Jose Valim",
+    "title": "Creator of Elixir",
+    "phone": "+55-555-0197",
+    "email": "jose@dashbit.co",
+    "avatar": "JV",
+    "messages": [
+      { "id": "m1", "subject": "Elixir 2.0", "preview": "Major language updates...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Phoenix LiveView", "preview": "Real-time web without JavaScript...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Erlang VM", "preview": "Leveraging BEAM for scale...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Rails Core", "preview": "Ruby on Rails contributions...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Brazilian Tech", "preview": "Building from South America...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "98",
+    "name": "Graydon Hoare",
+    "title": "Creator of Rust",
+    "phone": "+1-555-0198",
+    "email": "graydon@rust-lang.org",
+    "avatar": "GHo",
+    "messages": [
+      { "id": "m1", "subject": "Memory Safety", "preview": "Why Rust matters for security...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Language Design", "preview": "Decisions that shaped Rust...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Mozilla Days", "preview": "Creating Rust at Mozilla...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Systems Programming", "preview": "Low-level language evolution...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Current Work", "preview": "Post-Rust projects...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "99",
+    "name": "Rob Pike",
+    "title": "Co-creator of Go",
+    "phone": "+1-555-0199",
+    "email": "rob@golang.org",
+    "avatar": "RP",
+    "messages": [
+      { "id": "m1", "subject": "Go Simplicity", "preview": "Language design philosophy...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "Unix History", "preview": "Bell Labs contributions...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Plan 9", "preview": "Operating system innovations...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "UTF-8", "preview": "Creating Unicode encoding...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Concurrency", "preview": "CSP and goroutines...", "date": "2024-01-07", "unread": false }
+    ]
+  },
+  {
+    "id": "100",
+    "name": "Ken Thompson",
+    "title": "Creator of Unix",
+    "phone": "+1-555-0200",
+    "email": "ken@bell-labs.org",
+    "avatar": "KT",
+    "messages": [
+      { "id": "m1", "subject": "Unix Legacy", "preview": "Operating system that changed computing...", "date": "2024-01-15", "unread": true },
+      { "id": "m2", "subject": "C Language", "preview": "Creating with Dennis Ritchie...", "date": "2024-01-13", "unread": false },
+      { "id": "m3", "subject": "Go Language", "preview": "Modern systems programming...", "date": "2024-01-11", "unread": false },
+      { "id": "m4", "subject": "Chess Machine", "preview": "Belle computer chess...", "date": "2024-01-09", "unread": false },
+      { "id": "m5", "subject": "Turing Award", "preview": "Recognition for Unix work...", "date": "2024-01-07", "unread": false }
+    ]
+  }
+]
